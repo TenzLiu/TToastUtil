@@ -1,0 +1,3 @@
+include ':TToastLib'
+include ':app'
+rootProject.name = "TToastUtil"
